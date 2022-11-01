@@ -10,3 +10,6 @@ $(".lica").on("click", function() {
 $(".amaldi").on("click", function() {
     $(".estag_1").show();
 })
+$(".alzheimer").on("click", function() {
+    $(".deviario").show();
+})
