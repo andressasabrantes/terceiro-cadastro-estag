@@ -1,3 +1,3 @@
-$(".apelido").on("click", function() {
-    $(".cargo").show();
+$(".dtrue").on("click", function() {
+    $(".devop").show();
 })
