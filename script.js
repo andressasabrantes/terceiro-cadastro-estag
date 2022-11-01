@@ -1,3 +1,3 @@
-$(".gabriel").on("click", function() {
+$(".alzheimer").on("click", function() {
     $(".deviario").show();
 })
