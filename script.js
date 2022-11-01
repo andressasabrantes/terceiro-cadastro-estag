@@ -1,3 +1,3 @@
-$(".apelido").on("click", function() {
-    $(".cargo").show();
+$(".gabriel").on("click", function() {
+    $(".deviario").show();
 })
