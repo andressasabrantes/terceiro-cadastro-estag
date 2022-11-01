@@ -1,5 +1,35 @@
-.luqinhas,
-.estagiario1 {
+.apelido,
+.cargo {
+    padding: 0,5rem;
+    text-align: center;
+    color: rgb(44, 35, 35);
+}
+.amaldi,
+.estag_1 {
+    padding: 0,5rem;
+    text-align: center;
+    color: rgb(44, 35, 35);
+}
+.lica,
+.estagiario {
+    padding: 0,5rem;
+    text-align: center;
+    color: rgb(44, 35, 35);
+}
+.gemeas,
+.desenvolvedora {
+    padding: 0,5rem;
+    text-align: center;
+    color: rgb(44, 35, 35);
+}
+.betoneira,
+.dev {
+    padding: 0,5rem;
+    text-align: center;
+    color: rgb(44, 35, 35);
+}
+.gema,
+.softwareeng {
     padding: 0,5rem;
     text-align: center;
     color: rgb(44, 35, 35);
