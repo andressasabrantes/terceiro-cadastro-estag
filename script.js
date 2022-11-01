@@ -13,3 +13,6 @@ $(".amaldi").on("click", function() {
 $(".alzheimer").on("click", function() {
     $(".deviario").show();
 })
+$(".gemeas").on("click", function() {
+    $(".desenvolvedora").show();
+})
