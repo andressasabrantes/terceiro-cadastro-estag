@@ -1,3 +1,3 @@
-$(".apelido").on("click", function() {
-    $(".cargo").show();
+$(".gemeas").on("click", function() {
+    $(".desenvolvedora").show();
 })
