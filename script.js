@@ -1,5 +1,5 @@
-$(".apelido").on("click", function() {
-    $(".cargo").show();
+$(".betoneira").on("click", function() {
+    $(".dev").show();
 })
 $(".dtrue").on("click", function() {
     $(".devop").show();
