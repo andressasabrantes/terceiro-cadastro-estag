@@ -1,6 +1,9 @@
+$(".apelido").on("click", function() {
+    $(".cargo").show();
+})
 $(".dtrue").on("click", function() {
     $(".devop").show();
-})    
+})
 $(".lica").on("click", function() {
     $(".estagiario").show();
 })
@@ -15,4 +18,6 @@ $(".gemeas").on("click", function() {
 })
 $(".betoneira").on("click", function() {
     $(".dev").show();
+$(".gema").on("click", function() {
+    $(".softwareeng").show();
 })
