@@ -16,3 +16,6 @@ $(".betoneira").on("click", function() {
 $(".gema").on("click", function() {
     $(".softwareeng").show();
 })
+$(".luqinhas").on("click", function() {
+    $(".estagiario1").show();
+})
