@@ -1,5 +1,17 @@
+.apelido,
+.cargo {
+    padding: 0,5rem;
+    text-align: center;
+    color: rgb(44, 35, 35);
+}
 .dtrue,
 .devop{
+    padding: 0,5rem;
+    text-align: center;
+    color: rgb(44, 35, 35);
+}
+.lica,
+.estagiario {
     padding: 0,5rem;
     text-align: center;
     color: rgb(44, 35, 35);
