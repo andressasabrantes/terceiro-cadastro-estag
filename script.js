@@ -1,3 +1,3 @@
-$(".apelido").on("click", function() {
-    $(".cargo").show();
+$(".lica").on("click", function() {
+    $(".estagiario").show();
 })
