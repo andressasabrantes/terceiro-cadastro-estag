@@ -1,6 +1,3 @@
-$(".betoneira").on("click", function() {
-    $(".dev").show();
-})
 $(".dtrue").on("click", function() {
     $(".devop").show();
 })    
@@ -15,4 +12,7 @@ $(".alzheimer").on("click", function() {
 })
 $(".gemeas").on("click", function() {
     $(".desenvolvedora").show();
+})
+$(".betoneira").on("click", function() {
+    $(".dev").show();
 })

@@ -1,9 +1,3 @@
-.betoneira,
-.dev {
-    padding: 0,5rem;
-    text-align: center;
-    color: rgb(44, 35, 35);
-}
 .dtrue,
 .devop{
     padding: 0,5rem;
@@ -30,6 +24,12 @@
 }
 .gemeas,
 .desenvolvedora {
+    padding: 0,5rem;
+    text-align: center;
+    color: rgb(44, 35, 35);
+}
+.betoneira,
+.dev {
     padding: 0,5rem;
     text-align: center;
     color: rgb(44, 35, 35);
