@@ -1,5 +1,5 @@
-$(".betoneira").on("click", function() {
-    $(".dev").show();
+$(".apelido").on("click", function() {
+    $(".cargo").show();
 })
 $(".amaldi").on("click", function() {
     $(".estag_1").show();
@@ -9,4 +9,7 @@ $(".lica").on("click", function() {
 })
 $(".gemeas").on("click", function() {
     $(".desenvolvedora").show();
+})
+$(".betoneira").on("click", function() {
+    $(".dev").show();
 })
